@@ -1,0 +1,26 @@
+.heroContainer {
+  padding: 1rem;
+  /* border: 2px solid red; */
+}
+
+.section {
+  padding: 32px 0 64px 0;
+}
+
+.sectionBody {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.sectionTitle {
+  font-size: 80px;
+  font-weight: 700;
+  line-height: 1;
+  padding: 32px 0px;
+}
+.sectionDescription {
+  font-weight: 400;
+  font-size: 20px;
+  color: #666666;
+}
